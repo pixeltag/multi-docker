@@ -21,3 +21,4 @@ after_success:
     - docker push ihabyoussef/multi-nginx
     - docker push ihabyoussef/multi-server
     - docker push ihabyoussef/multi-worker
+    
